@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/64169932/152080181-d7370b95-b44e-4d91-
 Here's its chess.com profile: https://www.chess.com/member/chessables_with_chat_gpt.
 
 ## Playing against the AI! (Mac OS)
-1. Run `git clone https://github.com/samliu21/chess-ai`. Navigate into the directory with `cd chess-ai`.
+1. Run `git clone https://github.com/TTheDuyx-145/btl_chess-ai`. Navigate into the directory with .
 2. Create a virtual environment using `python -m venv .` and activate it with `source bin/activate`.
 3. Install the necessary dependencies using `python -m pip install -r requirements.txt`.
 4. Navigate to the correct directory using `cd gui` and call `python main.py` to play!
